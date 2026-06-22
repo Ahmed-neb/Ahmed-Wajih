@@ -1,166 +1,148 @@
-# 👋 Hi, I'm Ahmed Mohamed Wagih
+<h1 align="center">Hi 👋, I'm Ahmed Mohamed Wagih</h1>
+<h3 align="center">Network Engineer | NOC Engineer | Cyber Security Enthusiast</h3>
 
-### Network Engineer | NOC Engineer | Cyber Security Enthusiast
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-mohammed-wajih">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:ahmed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Ahmed-Wajih">
+    <img src="https://img.shields.io/github/followers/Ahmed-Wajih?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 Faculty of Technology, Industry & Energy (2026)
 
 📍 Cairo, Egypt
 
-🎓 Faculty of Technology, Industry & Energy — Expected Graduation 2026
+🌐 Passionate about Networking, Infrastructure, Cyber Security, Monitoring & Automation
+
+🚀 Currently learning:
+
+* CCNP Security
+* Network Automation
+* Cloud Security
+* Enterprise Infrastructure
 
 ---
 
-## 🚀 About Me
-
-I am a Network Engineer passionate about enterprise networking, network security, infrastructure management, and monitoring solutions. I enjoy designing secure and scalable network architectures, troubleshooting complex connectivity issues, and automating administrative tasks.
-
-Currently expanding my knowledge in Network Security, Infrastructure Automation, Cloud Technologies, and Enterprise Monitoring Systems.
-
----
-
-## 💼 Professional Summary
-
-Network Engineer with hands-on experience in enterprise networking, routing, switching, firewall configuration, network monitoring, and Active Directory environments.
-
-Experienced in incident troubleshooting, maintaining network availability, and supporting secure IT infrastructures. Seeking opportunities in Network Engineering, NOC Operations, and Infrastructure Management.
-
----
-
-## 🛠 Technical Skills
+## 🛠️ Tech Stack
 
 ### Networking
 
-* CCNA
-* CCNP Security
-* OSPF
-* RIP
-* VLANs
-* Inter-VLAN Routing
-* DHCP
-* VPN Technologies
-* Network Design
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
+![OSPF](https://img.shields.io/badge/OSPF-Networking-blue?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-Networking-success?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-Security-red?style=for-the-badge)
 
 ### Security
 
-* Firewall Configuration
-* ACLs (Access Control Lists)
-* Network Security Fundamentals
-* Secure Remote Access
-* SSH & RDP Administration
+![Firewall](https://img.shields.io/badge/Firewall-Security-red?style=for-the-badge)
+![ACL](https://img.shields.io/badge/ACL-Network%20Security-orange?style=for-the-badge)
 
-### Monitoring & Logging
+### Monitoring
 
-* Zabbix
-* PRTG
-* Nagios
-* Kiwi Syslog
-* NetFlow Monitoring
-
-### Operating Systems
-
-* Windows Server
-* Kali Linux
-* Red Hat Linux
-
-### Virtualization & Simulation
-
-* VMware
-* Cisco Packet Tracer
-* GNS3
-* PNETLab
+![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-red?style=for-the-badge)
+![PRTG](https://img.shields.io/badge/PRTG-Monitoring-orange?style=for-the-badge)
+![Nagios](https://img.shields.io/badge/Nagios-Monitoring-blue?style=for-the-badge)
 
 ### Automation
 
-* Python
-* PowerShell
-
-### VOIP
-
-* FreePBX
-
----
-
-## 🎓 Education
-
-**Bachelor's Degree**
-Faculty of Technology, Industry & Energy
-Expected Graduation: 2026
-
-**GPA:** 3.33
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
 
 ---
 
 ## 📜 Certifications
 
-* Google IT Support Professional Certificate
-* Windows System Administration – NTI & ITIDA
-* Cyber Security – ITI
-* Cyber Security for Beginners – MaharaTech
-* Linux Administration Level 1
-* Network Security Training – NTI & ITIDA
-* CCNA Networking
-* CCNP Networking
+🏆 Google IT Support Professional Certificate
+
+🏆 CCNA Networking
+
+🏆 CCNP Networking
+
+🏆 Windows System Administration
+
+🏆 Cyber Security - ITI
+
+🏆 Linux Administration
 
 ---
 
-## 💻 Featured Projects
+## 🚀 Featured Projects
 
 ### 🌐 Network Infrastructure Project
 
-Designed and implemented a secure enterprise network infrastructure including:
+Enterprise Multi-Branch Infrastructure with:
 
-* Multi-branch connectivity
-* Dynamic routing using OSPF
-* VLAN segmentation
-* Firewall deployment
-* Network monitoring solutions
-* DNS & DHCP services
+✅ OSPF Routing
 
-### 🖥 Enterprise Systems Administration Project
+✅ VLAN Segmentation
 
-Built a complete Windows Server environment featuring:
+✅ Firewall Security
 
-* Active Directory Domain Services
-* DNS Server
-* DHCP Failover
-* VPN Access
-* User & Device Management
+✅ DHCP & DNS
 
-### 📊 Active Directory Automation & Monitoring
-
-Developed a PowerShell-based administration platform for:
-
-* Real-time monitoring
-* User session tracking
-* Device management
-* Remote administration
-* Centralized Windows Server management
+✅ Network Monitoring
 
 ---
 
-## 📈 GitHub Stats
+### 🖥 Enterprise Systems Administration
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Wajih\&show_icons=true\&theme=tokyonight)
+✅ Active Directory
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Wajih\&layout=compact\&theme=tokyonight)
+✅ DNS Server
+
+✅ DHCP Failover
+
+✅ VPN Access
+
+✅ User Management
+
+---
+
+### 📊 Active Directory Automation Dashboard
+
+✅ PowerShell Automation
+
+✅ Device Monitoring
+
+✅ User Session Tracking
+
+✅ Remote Administration
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Wajih&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Wajih&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Wajih&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🌍 Languages
 
-* Arabic — Native
-* English — Intermediate (B1)
+🇪🇬 Arabic — Native
+
+🇬🇧 English — Intermediate (B1)
 
 ---
 
-## 📫 Contact Me
-
-📧 Email: [ahmed@gmail.com](mailto:ahmed@gmail.com)
-
-💼 LinkedIn: https://linkedin.com/in/ahmed-mohammed-wajih
-
-🌐 GitHub: https://github.com/Ahmed-Wajih
-
----
-
-### ⚡ Motto
-
-> "Building secure, reliable, and scalable network infrastructures one project at a time."
+<h3 align="center">⚡ Building Secure & Scalable Networks ⚡</h3>
