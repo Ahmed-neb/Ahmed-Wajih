@@ -1,4 +1,3 @@
-## ahmed
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Wagih</h1>
 <h3 align="center">Network Engineer | NOC Engineer | Cyber Security Enthusiast</h3>
 
