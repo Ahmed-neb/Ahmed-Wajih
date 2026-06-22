@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Wagih</h1>
+
 <h3 align="center">Network Engineer | NOC Engineer | Cyber Security Enthusiast</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/ahmed-mohamed-wagih-a9a589411">
+  <a href="https://www.linkedin.com/in/ahmed-mohamed-wagih-a9a589411">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -19,45 +20,62 @@
 
 ## 👨‍💻 About Me
 
-🎓 Faculty of Technology, Industry & Energy (2026)
+🎓 Network Engineering Student – Graduating 2026
 
 📍 Cairo, Egypt
 
 🌐 Passionate about Networking, Infrastructure, Cyber Security, Monitoring & Automation
 
-🚀 Currently learning:
+🚀 Currently Learning:
 
 * CCNP Security
+* AWS Security
 * Network Automation
-* Cloud Security
 * Enterprise Infrastructure
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Networking
+### 🌐 Networking
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-Networking-blue?style=for-the-badge)
-![VLAN](https://img.shields.io/badge/VLAN-Networking-success?style=for-the-badge)
-![VPN](https://img.shields.io/badge/VPN-Security-red?style=for-the-badge)
+* Routing & Switching
+* OSPF
+* EIGRP
+* VLANs
+* STP
+* EtherChannel
+* DMVPN
+* VPN Technologies
+* HSRP
+* DHCP
+* DNS
 
-### Security
+### 🔐 Security
 
-![Firewall](https://img.shields.io/badge/Firewall-Security-red?style=for-the-badge)
-![ACL](https://img.shields.io/badge/ACL-Network%20Security-orange?style=for-the-badge)
+* ACLs
+* Firewall Configuration
+* IPsec VPN
+* Network Hardening
+* Security Monitoring
 
-### Monitoring
+### 🖥️ System Administration
 
-![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-red?style=for-the-badge)
-![PRTG](https://img.shields.io/badge/PRTG-Monitoring-orange?style=for-the-badge)
-![Nagios](https://img.shields.io/badge/Nagios-Monitoring-blue?style=for-the-badge)
+* Active Directory
+* Windows Server
+* Linux Administration
+* DNS Server
+* DHCP Server
+* Group Policy
 
-### Automation
+### 📊 Monitoring & Automation
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+* Zabbix
+* Grafana
+* PRTG
+* Nagios
+* Python
+* PowerShell
 
 ---
 
@@ -65,84 +83,76 @@
 
 🏆 Google IT Support Professional Certificate
 
-🏆 CCNA Networking
-
-🏆 CCNP Networking
+🏆 CCNA Routing & Switching
 
 🏆 Windows System Administration
 
-🏆 Cyber Security - ITI
-
 🏆 Linux Administration
+
+🏆 Cyber Security Training – ITI
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 Network Infrastructure Project
+### 🌐 Enterprise Network Infrastructure
 
-Enterprise Multi-Branch Infrastructure with:
+Enterprise Multi-Branch Network Design with:
 
-✅ OSPF Routing
+* OSPF Routing
+* VLAN Segmentation
+* Inter-VLAN Routing
+* Firewall Security
+* DHCP & DNS Services
+* Network Monitoring
 
-✅ VLAN Segmentation
+### 🔐 Enterprise Security Infrastructure
 
-✅ Firewall Security
+* Active Directory Deployment
+* Group Policy Management
+* VPN Connectivity
+* User Access Control
+* Security Policies
 
-✅ DHCP & DNS
+### 📊 Monitoring & Automation Dashboard
 
-✅ Network Monitoring
-
----
-
-### 🖥 Enterprise Systems Administration
-
-✅ Active Directory
-
-✅ DNS Server
-
-✅ DHCP Failover
-
-✅ VPN Access
-
-✅ User Management
-
----
-
-### 📊 Active Directory Automation Dashboard
-
-✅ PowerShell Automation
-
-✅ Device Monitoring
-
-✅ User Session Tracking
-
-✅ Remote Administration
+* Device Monitoring
+* PowerShell Automation
+* Performance Analytics
+* Network Health Tracking
+* Alerting & Reporting
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Wajih&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Wajih&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Wajih&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Wajih&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Wajih&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Wajih&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🌍 Languages
 
-🇪🇬 Arabic — Native
-
-🇬🇧 English — Intermediate (B1)
+* 🇪🇬 Arabic — Native
+* 🇬🇧 English — Intermediate (B1)
 
 ---
 
-<h3 align="center">⚡ Building Secure & Scalable Networks ⚡</h3>
+## 📫 Connect With Me
+
+* 📧 Email: **[hh0750391@gmail.com](mailto:hh0750391@gmail.com)**
+* 💼 LinkedIn: **linkedin.com/in/ahmed-mohamed-wagih-a9a589411**
+* 🐙 GitHub: **github.com/Ahmed-Wajih**
+
+---
+
+<h3 align="center">⚡ Building Secure, Scalable & Reliable Networks ⚡</h3>
